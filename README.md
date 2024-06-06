@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **tammalibhanuprakash23@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MLStQVIp8tF1bhqzFzfV1csY3neLpfjX/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qrGfAGFAAvJfPVKtxasZOiW2mbvah-EH/view?usp=drive_link)
 
 - ⚡ Fun fact **When I'm not designing, I love creating street art and have had my work featured in local galleries.**
 
