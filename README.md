@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Human Vision Intelligence**
 
-- 👨‍💻 All of my projects are available at [animation](https://www.behance.net/bhanuprakash134)[Games](https://bhanuprakash.itch.io/)
+- 👨‍💻 All of my projects are available at [animation](https://www.behance.net/bhanuprakash134) / [Games](https://bhanuprakash.itch.io/)
 
 - 💬 Ask me about **anything you want**
 
