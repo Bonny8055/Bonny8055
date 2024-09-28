@@ -7,9 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonny8055" alt="bonny8055" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bhanupr57491571" target="blank"><img src="https://img.shields.io/twitter/follow/bhanupr57491571?logo=twitter&style=for-the-badge" alt="bhanupr57491571" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://ncube-digest.com/wp-content/uploads/2019/03/giphy-2.gif">
-
 - 🔭 I’m currently working on **project palamuru**
 
 - 🌱 I’m currently learning **AR/VR**
