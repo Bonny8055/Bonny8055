@@ -1,5 +1,5 @@
 
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)](https://rishavchanda.io)
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)](https://bonny8055.github.io/My-Website-/)
 <h1 align="center">Hi 👋, I'm Bhanu Prakash</h1>
 <h3 align="center">A passionate AR/VR developer from India</h3>
 
